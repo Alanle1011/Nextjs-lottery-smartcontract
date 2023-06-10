@@ -96,6 +96,7 @@ export default function LotteryEntrance() {
 
     return (
         <div className="p-5">
+            <h2>Welcome to Alanle1011 Lotery Website</h2>
             {raffleAddress ? (
                 <>
                     <button
